@@ -1,0 +1,3 @@
+﻿  CppCLR_WinformsProjekt.cpp
+C:\Users\admin\source\repos\UTRipper\UTRipper\Form1.h(181): warning C4700: uninitialized local variable 'i' used
+  UTRipper.vcxproj -> C:\Users\admin\source\repos\UTRipper\Release\UTRipper.exe
